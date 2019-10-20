@@ -7,10 +7,10 @@
 In deze oefeningen les starten we met het bouwen van een online sportwinkel: `SportsStore`. In deze online winkel kunnen gebruikers de catalogus met sportartikelen `Product` raadplegen. Deze artikelen, die elk tot een bepaalde categorie `Category` behoren, kunnen ze in een winkelmandje `Cart` leggen. Uiteindelijk kunnen aangemelde klanten `Customer` de artikelen die in het winkelmandje liggen effectief bestellen `Order`. Hieronder vind je enkele screenshots die je een idee geven van de SportsStore.
 
 #### Zoeken in de catalogus:
-![Zoeken.png](https://webiii.github.io/docs/H07/fig1.png"Zoeken")
+![Zoeken.png](https://webiii.github.io/docs/H07/fig1.png "Zoeken")
 
 #### De cart: 
-![Cart.png](https://webiii.github.io/docs/H07/fig2.png"Cart")
+![Cart.png](https://webiii.github.io/docs/H07/fig2.png "Cart")
 
 #### Het DCD:
 ![DCD.png](https://webiii.github.io/docs/H07/fig3.png "DCD")
@@ -96,8 +96,6 @@ In deze oefening maak je een nieuw project op basis van enkele reeds bestaande k
 - De database ziet er als volgt uit. Genereer het database diagram in Sql Server Management Studio  
 ![DB.png](https://webiii.github.io/docs/H07/fig4.png "DB")
 - Commit
-
-![Orders.png](https://webiii.github.io/docs/H07/fig5.png "Orders")
 
 #### Vervolledig de methodes in de domeinklassen 
 Vervolledig onderstaande methodes in de domeinklasse `Order` en `Cart`. Voor deze methodes zijn reeds testen voorzien. Maak eerst een test project aan en voeg de testklassen `OrderTest` en `CartTest` toe aan de `Models` folder. Run de testen, een aantal falen. Implementeer dan onderstaande properties/methodes:
