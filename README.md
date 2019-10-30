@@ -18,7 +18,7 @@ In deze oefeningen les starten we met het bouwen van een online sportwinkel: `Sp
 ## Opgave 
 In deze oefening maak je een nieuw project op basis van enkele reeds bestaande klassen. Deze vind je terug in deze repository.
 ### Aanmaken project 
-  - Maak een nieuwe Console applicatie SportsStore aan
+  - Maak een nieuwe Console applicatie SportsStore aan en voeg toe aan source control
   - Voeg SQL Server database provider for Entity Framework Core 3.0 toe 
   - Commit 
   
