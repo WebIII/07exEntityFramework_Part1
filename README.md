@@ -7,13 +7,13 @@
 In deze oefeningen les starten we met het bouwen van een online sportwinkel: `SportsStore`. In deze online winkel kunnen gebruikers de catalogus met sportartikelen `Product` raadplegen. Deze artikelen, die elk tot een bepaalde categorie `Category` behoren, kunnen ze in een winkelmandje `Cart` leggen. Uiteindelijk kunnen aangemelde klanten `Customer` de artikelen die in het winkelmandje liggen effectief bestellen `Order`. Hieronder vind je enkele screenshots die je een idee geven van de SportsStore.
 
 #### Zoeken in de catalogus:
-![Zoeken.png](https://webiii.github.io/docs/H07/fig1.png "Zoeken")
+![Zoeken.png](https://webiii.github.io/portal/docs/H07/fig1.png "Zoeken")
 
 #### De cart: 
-![Cart.png](https://webiii.github.io/docs/H07/fig2.png "Cart")
+![Cart.png](https://webiii.github.io/portal/docs/H07/fig2.png "Cart")
 
 #### Het DCD:
-![DCD.png](https://webiii.github.io/docs/H07/fig3.png "DCD")
+![DCD.png](https://webiii.github.io/portal/docs/H07/fig3.png "DCD")
 
 ## Opgave 
 In deze oefening maak je een nieuw project op basis van enkele reeds bestaande klassen. Deze vind je terug in deze repository.
