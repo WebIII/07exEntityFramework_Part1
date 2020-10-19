@@ -94,7 +94,7 @@ In deze oefening maak je een nieuw project op basis van enkele reeds bestaande k
 - Map de klassen en associaties. Denk na over de cascading. Een `Order` verwijderen, verwijdert ook de `OrderLines`. Een `product` verwijderen kan enkel als het in geen enkel `order` voorkomt. `
 - Je hoeft geen `DbSet` te voorzien voor `Order` en `OrderLine` in de klasse `ApplicationDbContext`. Waarom niet? 
 - De database ziet er als volgt uit. Genereer het database diagram in Sql Server Management Studio  
-![DB.png](https://webiii.github.io/docs/H07/fig4.png "DB")
+![DB.png](https://webiii.github.io/portal/docs/H07/fig4.png "DB")
 - Commit
 
 #### Vervolledig de methodes in de domeinklassen 
